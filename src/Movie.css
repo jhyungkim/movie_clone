@@ -1,6 +1,6 @@
 .movies .movie {
     width: 45%;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(239, 218, 254, 0.995);
     margin-bottom: 70px;
     display: flex;
     align-items: flex-start;
